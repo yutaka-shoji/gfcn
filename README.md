@@ -9,7 +9,10 @@ G-function calculation library written in Fortran.
 Just run quickstart.ipynb on Google Colab.  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yutaka-shoji/gfunc/blob/main/quickstart.ipynb)
 
-## Local Use (Mac, Linux)
+## Local Use 
+### Supported OS
+Mac or Linux
+(Use WSL for Windows)
 ### Dependencies
 Confirm the following dependencies are installed on your system.
 - [gfortran](https://gcc.gnu.org/fortran/): GNU Fortran compiler
