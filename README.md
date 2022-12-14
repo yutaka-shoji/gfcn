@@ -1,4 +1,4 @@
-# gfunc
+# gfcn
 G-function calculation library written in Fortran.
 - Infinite Line Source Model (Ingersoll et al., 1954; Carslaw and Jaeger, 1992)
 - Infinite Cylinder Source Model (Ingersoll et al., 1954; Carslaw and Jaeger, 1992)
