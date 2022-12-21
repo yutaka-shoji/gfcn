@@ -7,7 +7,7 @@ G-function calculation library written in Fortran.
 ## Quick start
 ### On Google Colab
 Just run quickstart.ipynb on Google Colab.  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yutaka-shoji/gfunc/blob/main/quickstart.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yutaka-shoji/gfcn/blob/main/quickstart.ipynb)
 
 ## Local Use 
 ### Supported OS
@@ -21,7 +21,7 @@ Confirm the following dependencies are installed on your system.
 ### Clone
 Git users may clone this repository with the following command:
 ```sh
-git clone https://github.com/yutaka-shoji/gfunc.git
+git clone https://github.com/yutaka-shoji/gfcn.git
 ```
 
 Or download this repository.
